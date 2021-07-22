@@ -1,2 +1,3 @@
 # springboot-rest-crud-user
-CRUD APIs for user details demo application using spring boot, Spring rest, Spring JPA, MYSQL
+Rest APIs for CRUD Operations using Spring Boot, Spring Data JPA, Spring Rest and MYSQL database.
+<hr>
